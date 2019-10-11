@@ -1,5 +1,5 @@
 # PostMaster
-Anonymous public chatroom application allowing users to create posts for communication.
+Anonymous public chatroom application built using Angular, Node/Express, and MongoDB.
 
 
 ## To Be Implemented
